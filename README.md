@@ -24,7 +24,7 @@ La información aquí mostrada es sólo un adelanto de lo que se está procesand
 
 
 ## Contenidos:
-* **[Contexto Electoral Histórico del Peru (2000 - 2011)](https://rawgit.com/projectsUW/peru2016elections/master/ReporteI.html)**
+* **[CANDIDATOS OBSERVANDOSE ENTRE SI](https://rawgit.com/projectsUW/peru2016elections/master/ReporteI.html)**
 
 <br>
 </br>
