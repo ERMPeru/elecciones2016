@@ -13,7 +13,7 @@ Senior Data Science Fellow and Visiting Professor of Computational Policy Analys
 *University of Washington*:
 <span style="background-color: #FFFF00">magajm@uw.edu</span>
 
-<a href="https://rawgit.com/projectsUW/peru2016elections/master/Credits.html" target="_blank">CRÉDITOS y CONDICIONES DE USO</a>
+<a href="https://rawgit.com/ERMPeru/elecciones2016/master/Credits.html" target="_blank">CRÉDITOS y CONDICIONES DE USO</a>
 
 El IP se viene realizando este trabajo en el labPUCP (Lima, Perú),  con el apoyo del eScience Institute de la Universidad de Washington (Seatle, EEEUU) gracias a la contribución del Washington Research Fund,  the Alfred P. Sloan Foundation, y the Gordon and Betty Moore Foundation. 
 
