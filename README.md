@@ -1,5 +1,5 @@
-<a href="http://escience.washington.edu/research-project/data-and-computational-social-science-for-improving-political-decision-making-and-informing-the-citizen-in-peru/">
-<img src="http://i.imgur.com/WbKfdDB.png" width="600">
+<a href="https://escience.washington.edu/research-project/opening-data-peru/">
+<img src="https://github.com/ERMPeru/elecciones2016/raw/master/headerLogo.png" width="600">
 </a>
 
 # MINERIA COMPUTACIONAL DE DATOS PUBLICOS DE PERU
@@ -37,7 +37,5 @@ Sus comentarios pueden dejarlos es:
 *El PI reconoce el apoyo brindado por el Center for Social Complexity de George Mason University, y del UC Berkeley Initiative for Transparency in the Social Sciences para el desarrollo para enriquecer el desarrollo metodológico de este trabajo*.
 
 
-<a href="http://cisepa.pucp.edu.pe/grupos/seminario-de-investigacion-computacional-de-la-complejidad-social/">
-<img src="http://i.imgur.com/IhJLmc3.png" width="400">
-</a>
+<img src="https://github.com/ERMPeru/elecciones2016/raw/master/footerLogo.png" width="400">
 
