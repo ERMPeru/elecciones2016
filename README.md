@@ -1,6 +1,5 @@
 <a href="https://escience.washington.edu/research-project/opening-data-peru/">
-<img src="https://github.com/ERMPeru/elecciones2016/raw/master/headerLogo.png" width="600">
-</a>
+<img src="https://github.com/ERMPeru/elecciones2016/raw/master/headerLogo.png" width="1000"></a>
 
 # MINERIA COMPUTACIONAL DE DATOS PUBLICOS DE PERU
 ## Elecciones SubNacionales 2018
