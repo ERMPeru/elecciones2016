@@ -1,0 +1,59 @@
+<a href="https://escience.washington.edu/research-project/opening-data-peru/">
+<img src="https://github.com/ERMPeru/elecciones2016/raw/master/headerLogo.png" width="1000"></a>
+
+#### **José Manuel Magallanes Ph.D.**
+#### Investigador Principal
+
+#### **Investigador Principal (IP): Dr. José Manuel Magallanes Ph.D.**<br>
+Profesor del Departamento de Ciencias Sociales y Director del Laboratorio de Políticas Públicas (labPUCP) de la Escuela de Gobierno y Políticas Públicas<br>
+*Pontificia Universidad Católica del Perú*:
+<span style="background-color: #FFFF00">jmagallanes@pucp.edu.pe</span>
+<br>
+Senior Data Science Fellow and Visiting Professor of Computational Policy Analysis, eScience Institute and Evans School of Public Policy and Governance<br>
+*University of Washington*:
+<span style="background-color: #FFFF00">magajm@uw.edu</span>
+
+
+
+[INICIO](https://ermperu.github.io/elecciones2016/)
+
+
+## Equipo en USA
+El Prof. José Manuel Magallanes reconoce la asistencia de **Bernease Herman**, **Anthony Arendt**, **Valentina Staneva** (eScience Institute UW), y  **Tyler Mc Cormick* (Departamento de Estadistica y Sociología UW). En particular, se agradece el constante apoyo administrativo de **Micaela Parker y Sarah Stone** del eScience Institute - UW.
+
+Este trabajo se ha enriquecido gracias a los comentarios de los Profesores **Ernesto Calvo** (Universidad de Maryland), y **Joshua Tucker** (New York University).
+
+## Equipo de PERU
+En Perú, este trabajo se realiza en el Laboratorio de Políticas Públicas LabPUCP de la Escuela de Gobierno y Políticas Públicas de la Pontificia Universidad Católica del Perú, en particular de la **Lic. María Gracia Becerra**, y los asistentes de investigación *Jair Almendras*, *Wendy Adrianzen* y *Alexander Benites*.
+
+## De los Datos utilizados:
+Las bases de datos fueron descargadas utilizando los servicios disponibles en los respectivos sitios web:
+
+* INFOGOB: www.infogob.com.pe. 
+* ONPE: www.onpe.gob.pe
+* INEI: ineidw.inei.gob.pe/ineidw/
+
+Los datos obtenidos de las redes sociales (Facebook, Twitter y YouTube) han sido recopilados revisando las cuentas de los candidatos, complementándolos con datos obtenidos via servicios gratuitos de otros proveedores (Twittonomy, SocialBlade y SocialBakers). Los datos para análisis más profundos requirieron la producción de programas en Python para interactuar con los APIs, y se complementaron con códigos en R para algunos análisis particulares y para la producción de las visualizaciones. Dada la naturaleza de estos servicios, y el momento de recolección, y la dedicación a este proyecto, el lector puede encontrar divergencias con los valores reales al momento de acceder a esta información.
+
+
+
+## DE LA PRECISION DE LOS RESULTADOS
+Se ha hecho los esfuerzos necesarios para verificar la confiabilidad de los resultados aquí mostrados. Al ser este un trabajo de investigación en curso, es probable que hayan errores involuntarios de cálculo, y es plena responsabilidad del investigador principal corregirlas, por lo que si Usted intuye o identifica algun posible error, le estaremos muy agradecidos si nos lo informa al email <span style="background-color: #FFFF00">magajm@uw.edu</span> o <span style="background-color: #FFFF00">jmagallanes@pucp.edu.pe</span>
+
+
+## DEL USO DE LA INFORMACION
+
+El uso y difusion de la información debe ser citado como:
+
+**Magallanes, Jose Manuel. "MINERIA COMPUTACIONAL DE DATOS PUBLICOS DE PERU- elecciones subnacionales 2016" Website:https://ermperu.github.io/elecciones2016/.LabPUCP and eScience Institute UW**
+
+
+## **INVITACION**
+
+Invitamos a contactarnos a los emails indicados anteriormente para contribuir con datos o solicitar más detalles. Si tiene una gráfica en mente o una pregunta de investigación, comparta la idea con nosotros y veremos cómo brindarle apoyo. De igual manera, pueden dejar sus comentarios en <span style="background-color: #FFFF00">https://www.facebook.com/peruanalitico/</span>
+
+
+
+
+
+
