@@ -24,7 +24,7 @@ La información aquí mostrada es sólo un adelanto de lo que se está procesand
 
 
 ## Contenidos:
-* **[CANDIDATOS OBSERVANDOSE ENTRE SI](https://rawgit.com/projectsUW/peru2016elections/master/ReporteI.html)**
+* **[CANDIDATOS OBSERVANDOSE ENTRE SI](https://rawgit.com/ERMPeru/elecciones2016/master/subna2018_1.html)**
 
 <br>
 </br>
