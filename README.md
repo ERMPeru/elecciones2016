@@ -40,7 +40,7 @@ Sus comentarios pueden dejarlos es:
 <span style="background-color: #FFFF00">https://www.facebook.com/peruanalitico/</span>
 
 
-*El PI reconoce el apoyo brindado por el Center for Social Complexity de George Mason University, y del UC Berkeley Initiative for Transparency in the Social Sciences para el desarrollo para enriquecer el desarrollo metodológico de este trabajo*.
+*El PI reconoce el apoyo brindado por el Center for Social Complexity de George Mason University, y del UC Berkeley Initiative for Transparency in the Social Sciences para enriquecer el desarrollo metodológico de este trabajo*.
 
 
 <img src="https://github.com/ERMPeru/elecciones2016/raw/master/footerLogo.png" width="400">
