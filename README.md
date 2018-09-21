@@ -30,6 +30,9 @@ La información aquí mostrada es sólo un adelanto de lo que se está procesand
 
 * **[SIMILITUD ENTRE PLANES DE GOBIERNO](https://rawgit.com/ERMPeru/elecciones2016/master/planes2018.html)**
 
+* **[SENTIMIENTO Y REACCIONES EN TWITTER](https://rawgit.com/ERMPeru/elecciones2016/master/sentimentTweet2018.html)**
+
+
 <br>
 </br>
 
