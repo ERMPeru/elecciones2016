@@ -32,6 +32,7 @@ La información aquí mostrada es sólo un adelanto de lo que se está procesand
 
 * **[SENTIMIENTO Y REACCIONES EN TWITTER](https://rawgit.com/ERMPeru/elecciones2016/master/sentimentTweet2018.html)**
 
+* **[DE QUÉ ESTÁN HABLANDO LOS CANDIDATOS?](https://rawgit.com/ERMPeru/elecciones2016/master/TopicTweetSubNA.html)**
 
 <br>
 </br>
