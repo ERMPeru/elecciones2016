@@ -34,6 +34,8 @@ La información aquí mostrada es sólo un adelanto de lo que se está procesand
 
 * **[DE QUÉ ESTÁN HABLANDO LOS CANDIDATOS?](https://rawgit.com/ERMPeru/elecciones2016/master/TopicTweetSubNA.html)**
 
+* **[CERCANÍA ENTRE LOS CANDIDATOS](https://rawgit.com/ERMPeru/elecciones2016/master/cercanias_fr.html)**
+
 <br>
 </br>
 
