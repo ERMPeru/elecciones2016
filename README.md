@@ -26,7 +26,7 @@ La información aquí mostrada es sólo un adelanto de lo que se está procesand
 ## Contenidos:
 * **[CANDIDATOS OBSERVANDOSE ENTRE SI](https://rawgit.com/ERMPeru/elecciones2016/master/subna2018_1.html)**
 
-* **[DATOS DE LOS SEGUIDORES DE LOS CANDIDATOS](https://rawgit.com/ERMPeru/elecciones2016/master/subna2018_2_seguidores.html)**
+* **[DATOS DE LOS SEGUIDORES Y AMIGOS DE LOS CANDIDATOS](https://rawgit.com/ERMPeru/elecciones2016/master/subna2018_2_seguidores.html)**
 
 * **[SIMILITUD ENTRE PLANES DE GOBIERNO](https://rawgit.com/ERMPeru/elecciones2016/master/planes2018.html)**
 
