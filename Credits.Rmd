@@ -1,5 +1,5 @@
 <a href="https://escience.washington.edu/research-project/opening-data-peru/">
-<img src="https://github.com/ERMPeru/elecciones2016/raw/master/headerLogo.png" width="1000"></a>
+<img src="https://github.com/ERMPeru/elecciones2018/raw/master/headerLogo.png" width="1000"></a>
 
 #### **José Manuel Magallanes Ph.D.**
 #### Investigador Principal
@@ -24,7 +24,7 @@ El Prof. José Manuel Magallanes reconoce la asistencia de **Bernease Herman**, 
 Este trabajo se ha enriquecido gracias a los comentarios de los Profesores **Ernesto Calvo** (Universidad de Maryland), y **Joshua Tucker** (New York University).
 
 ## Equipo de PERU
-En Perú, este trabajo se realiza en el Laboratorio de Políticas Públicas LabPUCP de la Escuela de Gobierno y Políticas Públicas de la Pontificia Universidad Católica del Perú, en particular de la **Lic. María Gracia Becerra**, y los asistentes de investigación *Jair Almendras*, *Wendy Adrianzen* y *Alexander Benites*.
+En Perú, este trabajo se realiza en el Laboratorio de Políticas Públicas LabPUCP de la Escuela de Gobierno y Políticas Públicas de la Pontificia Universidad Católica del Perú, en particular de la **Lic. María Gracia Becerra**, y los asistentes de investigación *Jair Almendras*, *Wendy Adrianzen*, *Karina Castro* y *Alexander Benites*.
 
 ## De los Datos utilizados:
 Las bases de datos fueron descargadas utilizando los servicios disponibles en los respectivos sitios web:
@@ -45,7 +45,8 @@ Se ha hecho los esfuerzos necesarios para verificar la confiabilidad de los resu
 
 El uso y difusion de la información debe ser citado como:
 
-**Magallanes, Jose Manuel. "MINERIA COMPUTACIONAL DE DATOS PUBLICOS DE PERU- elecciones subnacionales 2016" Website:https://ermperu.github.io/elecciones2016/.LabPUCP and eScience Institute UW**
+**Magallanes, Jose Manuel. "MINERIA COMPUTACIONAL DE DATOS PUBLICOS DE PERU- elecciones subnacionales 2016" Website:https://ermperu.github.io/elecciones2018. 
+LabPUCP and eScience Institute UW**
 
 
 ## **INVITACION**

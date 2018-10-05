@@ -1,5 +1,5 @@
 <a href="https://escience.washington.edu/research-project/opening-data-peru/">
-<img src="https://github.com/ERMPeru/elecciones2016/raw/master/headerLogo.png" width="1000"></a>
+<img src="https://github.com/ERMPeru/elecciones2018/raw/master/headerLogo.png" width="1000"></a>
 
 # MINERIA COMPUTACIONAL DE DATOS PUBLICOS DE PERU
 ## Elecciones SubNacionales 2018
@@ -13,7 +13,7 @@ Senior Data Science Fellow and Visiting Professor of Computational Policy Analys
 *University of Washington*:
 <span style="background-color: #FFFF00">magajm@uw.edu</span>
 
-<a href="https://rawgit.com/ERMPeru/elecciones2016/master/Credits.html" target="_blank">CRÉDITOS y CONDICIONES DE USO</a>
+<a href="https://rawgit.com/ERMPeru/elecciones2018/master/Credits.html" target="_blank">CRÉDITOS y CONDICIONES DE USO</a>
 
 El IP se viene realizando este trabajo en el labPUCP (Lima, Perú),  con el apoyo del eScience Institute de la Universidad de Washington (Seatle, EEEUU) gracias a la contribución del Washington Research Fund,  the Alfred P. Sloan Foundation, y the Gordon and Betty Moore Foundation. 
 
@@ -24,19 +24,19 @@ La información aquí mostrada es sólo un adelanto de lo que se está procesand
 
 
 ## Contenidos:
-* **[CANDIDATOS OBSERVANDOSE ENTRE SI](https://rawgit.com/ERMPeru/elecciones2016/master/subna2018_1.html)**
+* **[CANDIDATOS OBSERVANDOSE ENTRE SI](https://rawgit.com/ERMPeru/elecciones2018/master/subna2018_1.html)**
 
-* **[DATOS DE LOS SEGUIDORES Y AMIGOS DE LOS CANDIDATOS](https://rawgit.com/ERMPeru/elecciones2016/master/subna2018_2_seguidores.html)**
+* **[DATOS DE LOS SEGUIDORES Y AMIGOS DE LOS CANDIDATOS](https://rawgit.com/ERMPeru/elecciones2018/master/subna2018_2_seguidores.html)**
 
-* **[SIMILITUD ENTRE PLANES DE GOBIERNO](https://rawgit.com/ERMPeru/elecciones2016/master/planes2018.html)**
+* **[SIMILITUD ENTRE PLANES DE GOBIERNO](https://rawgit.com/ERMPeru/elecciones2018/master/planes2018.html)**
 
-* **[SENTIMIENTO Y REACCIONES EN TWITTER](https://rawgit.com/ERMPeru/elecciones2016/master/sentimentTweet2018.html)**
+* **[SENTIMIENTO Y REACCIONES EN TWITTER](https://rawgit.com/ERMPeru/elecciones2018/master/sentimentTweet2018.html)**
 
-* **[DE QUÉ ESTÁN HABLANDO LOS CANDIDATOS?](https://rawgit.com/ERMPeru/elecciones2016/master/TopicTweetSubNA.html)**
+* **[DE QUÉ ESTÁN HABLANDO LOS CANDIDATOS?](https://rawgit.com/ERMPeru/elecciones2018/master/TopicTweetSubNA.html)**
 
-* **[CERCANÍA ENTRE LOS CANDIDATOS](https://rawgit.com/ERMPeru/elecciones2016/master/cercanias_fr.html)**
+* **[CERCANÍA ENTRE LOS CANDIDATOS](https://rawgit.com/ERMPeru/elecciones2018/master/cercanias_fr.html)**
 
-* **[LOS DOS DEBATES](https://rawgit.com/ERMPeru/elecciones2016/master/debates2018.html)**
+* **[LOS DOS DEBATES](https://rawgit.com/ERMPeru/elecciones2018/master/debates2018.html)**
 
 <br>
 </br>
