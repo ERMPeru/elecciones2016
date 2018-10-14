@@ -13,7 +13,7 @@ Senior Data Science Fellow and Visiting Professor of Computational Policy Analys
 *University of Washington*:
 <span style="background-color: #FFFF00">magajm@uw.edu</span>
 
-<a href="https://rawgit.com/ERMPeru/elecciones2018/master/Credits.html" target="_blank">CRÉDITOS y CONDICIONES DE USO</a>
+<a href="http://escience.washington.edu/wp-content/uploads/2018/10/Credits.html" target="_blank">CRÉDITOS y CONDICIONES DE USO</a>
 
 El IP se viene realizando este trabajo en el labPUCP (Lima, Perú),  con el apoyo del eScience Institute de la Universidad de Washington (Seatle, EEEUU) gracias a la contribución del Washington Research Fund,  the Alfred P. Sloan Foundation, y the Gordon and Betty Moore Foundation. 
 
@@ -24,19 +24,19 @@ La información aquí mostrada es sólo un adelanto de lo que se está procesand
 
 
 ## Contenidos:
-* **[CANDIDATOS OBSERVANDOSE ENTRE SI](https://rawgit.com/ERMPeru/elecciones2018/master/subna2018_1.html)**
+* **[CANDIDATOS OBSERVANDOSE ENTRE SI](http://escience.washington.edu/wp-content/uploads/2018/10/subna2018_1.html)**
 
-* **[DATOS DE LOS SEGUIDORES Y AMIGOS DE LOS CANDIDATOS](https://rawgit.com/ERMPeru/elecciones2018/master/subna2018_2_seguidores.html)**
+* **[DATOS DE LOS SEGUIDORES Y AMIGOS DE LOS CANDIDATOS](http://escience.washington.edu/wp-content/uploads/2018/10/subna2018_2_seguidores.html)**
 
-* **[SIMILITUD ENTRE PLANES DE GOBIERNO](https://rawgit.com/ERMPeru/elecciones2018/master/planes2018.html)**
+* **[SIMILITUD ENTRE PLANES DE GOBIERNO](http://escience.washington.edu/wp-content/uploads/2018/10/planes2018.html)**
 
-* **[SENTIMIENTO Y REACCIONES EN TWITTER](https://rawgit.com/ERMPeru/elecciones2018/master/sentimentTweet2018.html)**
+* **[SENTIMIENTO Y REACCIONES EN TWITTER](http://escience.washington.edu/wp-content/uploads/2018/10/sentimentTweet2018.html)**
 
-* **[DE QUÉ ESTÁN HABLANDO LOS CANDIDATOS?](https://rawgit.com/ERMPeru/elecciones2018/master/TopicTweetSubNA.html)**
+* **[DE QUÉ ESTÁN HABLANDO LOS CANDIDATOS?](http://escience.washington.edu/wp-content/uploads/2018/10/TopicTweetSubNA.html)**
 
-* **[CERCANÍA ENTRE LOS CANDIDATOS](https://rawgit.com/ERMPeru/elecciones2018/master/cercanias_fr.html)**
+* **[CERCANÍA ENTRE LOS CANDIDATOS](http://escience.washington.edu/wp-content/uploads/2018/10/cercanias_fr.html)**
 
-* **[LOS DOS DEBATES](https://rawgit.com/ERMPeru/elecciones2018/master/debates2018.html)**
+* **[LOS DOS DEBATES](http://escience.washington.edu/wp-content/uploads/2018/10/debates2018.html)**
 
 * **[REVISION HISTORICA](https://escience.washington.edu/wp-content/uploads/2018/10/subnaMap.html)**
 
