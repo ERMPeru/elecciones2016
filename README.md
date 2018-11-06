@@ -34,7 +34,7 @@ La información aquí mostrada es sólo un adelanto de lo que se está procesand
 
 * **[DE QUÉ ESTÁN HABLANDO LOS CANDIDATOS?](http://escience.washington.edu/wp-content/uploads/2018/10/TopicTweetSubNA.html)**
 
-* **[CERCANÍA ENTRE LOS CANDIDATOS](http://escience.washington.edu/wp-content/uploads/2018/10/cercanias_fr.html)**
+* **[CERCANÍA ENTRE LOS CANDIDATOS](http://escience.washington.edu/wp-content/uploads/2018/11/cercanias_fr.html)**
 
 * **[LOS DOS DEBATES](http://escience.washington.edu/wp-content/uploads/2018/10/debates2018.html)**
 
